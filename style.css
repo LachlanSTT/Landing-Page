@@ -10,6 +10,16 @@ body{
  color: #f9faf8;
  width: 100%;
  height: 7%;
+ align-items: center;
+ display: flex;
+}
+
+.section1,
+.section2,
+.section3,
+.section4 {
+    width: 100%;
+    min-height: 22.5%;
 }
 
 
