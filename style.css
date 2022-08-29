@@ -1,0 +1,22 @@
+body{ 
+    background-color: #1f2937;
+    color: white;
+}
+
+
+
+h1 {
+font-size: 48px;
+font-weight: bold;
+}
+
+button{
+background-color: #3882f6;
+color: white;
+border-radius: 10px;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
