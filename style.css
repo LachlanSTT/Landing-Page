@@ -92,3 +92,8 @@ body{
     height: 250px;
 }
 
+.sec2-h2 {
+    display: flex;
+    justify-content: center;
+    
+}
