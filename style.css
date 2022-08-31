@@ -73,6 +73,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     border-radius: 8px;
+    border-color: #f9faf8;
     width: 90px;
     height: 25px;
 }
@@ -139,16 +140,45 @@ body{
     max-width: 70%;
 }
 
+.section4 {
+    padding: 70px;
+}
+
 .sec-h4 {
     font-weight: bold;
     margin-right: 20%;
+    margin-left: auto;
     max-width: 70%;
 }
 
 .sec4-box{
    background-color: #3882f6; 
+   width: 75%;
+   border-radius: 5px;
+   margin-right: auto;
+   margin-left: auto;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content:space-around;
+   min-height: 100px;
 }
 
-.sec4-text{
+
+.sec4-header,
+.sec4-text {
     color: #f9faf8;
+    
+}
+
+.sec4-header {
+    font-weight: bold;
+}
+
+.sec4-btn {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 5px;
+    border-color: #f9faf8;
+    
 }
